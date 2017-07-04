@@ -1,5 +1,5 @@
 # Aulasistencia
-Aulasistencia es un script creado para gestionar las faltas de asistencia dede los alumnos en el centro educativo. La versión 1.0 está creada adhoc a las necesidades del centro educativo Aula Campus Centre d'Estudis de Burjassot (Valencia). De todas maneras, el script se puede adaptar a las necesidades de cualquier otro centro.
+Aulasistencia es un script creado para gestionar las faltas de asistencia dede los alumnos en el centro educativo. La versión 1.0 está creada adhoc a las necesidades del centro educativo *Aula Campus Centre d'Estudis de Burjassot (Valencia)*. De todas maneras, el script se puede adaptar a las necesidades de cualquier otro centro.
 
 # Instalación
 El script **aulasistencia** se ejecuta para la plantilla de la hoja de cálculo que puedes encontrar en la carpeta sheets_templates. Para ello, sigue estos los siguientes pasos:
